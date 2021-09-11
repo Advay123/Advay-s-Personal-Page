@@ -1,0 +1,21 @@
+body{
+    background-color: cornsilk;
+}
+
+        img{
+width: 200px;
+border-radius: 100px;
+height: 240px;
+align-items: center;
+        }
+
+        h1{
+            font-size: 100px;
+            font-family: "CoopForged";
+            color: green;
+        }
+
+        .myDIV:hover{
+            background-color: indianred;
+        }
+
